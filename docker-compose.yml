@@ -1,0 +1,5 @@
+version: '2'
+services:
+  modjular-base:
+    build: .
+    image: modjular/modjular-base:latest
